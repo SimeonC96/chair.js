@@ -1,0 +1,36 @@
+CONTROLS:
+
+W: forward
+
+A: turn left
+
+S: reverse
+
+D: turn right
+
+
+
+E: open door
+
+Q: close door
+
+
+T: Switch to point light
+
+R: Switch to directional light
+
+
+
+L: Look at car
+
+K: Look at origin
+
+
+
+UP ARROW: Move camera toward origin
+
+DOWN ARROW: Move camera away from origin
+
+LEFT ARROW: Rotate camera clockwise about origin
+
+RIGHT ARROW: Rotate camera anti-clockwise about origin
